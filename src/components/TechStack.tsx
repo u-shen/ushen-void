@@ -34,8 +34,8 @@ const TechStack = () => {
                   Typescript
                 </li>
                 <li className="flex gap-x-2 align-middle">
-                  <Icon icon="devicon:nodejs" className="text-2xl" />
-                  Node
+                  <Icon icon="devicon:firebase" className="text-2xl" />
+                  Firebase
                 </li>
                 <li className="flex gap-x-2 align-middle">
                   <Icon icon="devicon:react" className="text-2xl" />
@@ -88,8 +88,8 @@ const TechStack = () => {
                 </h5>
                 <ul className="grid grid-cols-2 gap-4">
                   <li className="flex gap-x-2 align-middle">
-                    <Icon icon="devicon:nodejs" className="text-2xl" />
-                    Node
+                    <Icon icon="devicon:prisma" className="text-2xl" />
+                    Prisma
                   </li>
                   <li className="flex gap-x-2 align-middle">
                     <Icon
@@ -99,26 +99,26 @@ const TechStack = () => {
                     Express
                   </li>
                   <li className="flex gap-x-2 align-middle">
-                    <Icon icon="devicon:prisma" className="text-2xl" />
-                    Prisma
+                    <Icon icon="devicon:firebase" className="text-2xl" />
+                    Firebase
                   </li>
                 </ul>
-                <h5 className="my-2 w-max border-b-[1px] border-cyan-50 text-sky-300">
-                  Mobile development
-                </h5>
-                <ul className="grid grid-cols-2 gap-4">
-                  <li className="flex gap-x-2 align-middle">
-                    <Icon icon="devicon:react" className="text-2xl" />
-                    React Native
-                  </li>
-                  <li className="flex gap-x-2 align-middle">
-                    <Icon
-                      icon="ion:logo-pwa"
-                      className="text-2xl text-green-300"
-                    />
-                    Web PWA
-                  </li>
-                </ul>
+                {/* <h5 className="my-2 w-max border-b-[1px] border-cyan-50 text-sky-300"> */}
+                {/*   Mobile development */}
+                {/* </h5> */}
+                {/* <ul className="grid grid-cols-2 gap-4"> */}
+                {/*   <li className="flex gap-x-2 align-middle"> */}
+                {/*     <Icon icon="devicon:react" className="text-2xl" /> */}
+                {/*     React Native */}
+                {/*   </li> */}
+                {/*   <li className="flex gap-x-2 align-middle"> */}
+                {/*     <Icon */}
+                {/*       icon="ion:logo-pwa" */}
+                {/*       className="text-2xl text-green-300" */}
+                {/*     /> */}
+                {/*     Web PWA */}
+                {/*   </li> */}
+                {/* </ul> */}
                 <h5 className="my-2 w-max border-b-[1px] border-cyan-50 text-sky-300">
                   UI Frameworks
                 </h5>
