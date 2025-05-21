@@ -1,16 +1,16 @@
-# Jayasurian Makkoth - Lead Frontend Engineer
+# Farah Abderrazzak - Frontend Engineer
 
-Passionate software engineer specializing in building scalable and user-friendly web applications.
+Passionate Web Developer specializing in building scalable and user-friendly web applications.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jayasurianmakkoth/) | [Portfolio Website](https://portfolio.thejay.dev/) | jayasurian123@gmail.com
+[LinkedIn](https://www.linkedin.com/in/u-shen/) | [Portfolio Website](https://ushen.vercel.app/) | farah.ushen@gmail.com
 
 ## Skills
 
 - Programming Languages: JavaScript, TypeScript, ...
-- Frameworks: React, Node.js, ...
+- Frameworks: React, Next Js, ...
 
 ## Let's Connect!
 
-Open to new opportunities in software engineering.
+Open to new opportunities in Web development.
